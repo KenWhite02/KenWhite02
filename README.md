@@ -6,4 +6,4 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 Skills: Javascipt | React | HTML | CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
