@@ -14,5 +14,5 @@ Skills: Javascipt | React | HTML | CSS
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KenWhite02&count_private=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=nightowl&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=nightowl&count_private=true" />
 </a>
