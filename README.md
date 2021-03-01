@@ -7,3 +7,5 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 Skills: Javascipt | React | HTML | CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KenWhite02)](https://github.com/anuraghazra/github-readme-stats)
