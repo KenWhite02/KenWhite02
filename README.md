@@ -40,6 +40,12 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/68158625/111176133-1ead0980-85ba-11eb-96e1-72017d2d9894.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
+<br />
+<br />
+
+---
+
+
 <center>
   <table>
   <tr>
