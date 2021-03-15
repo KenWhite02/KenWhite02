@@ -20,6 +20,9 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="__whitish__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools:
 
@@ -40,13 +43,18 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/68158625/111176133-1ead0980-85ba-11eb-96e1-72017d2d9894.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
+<br />
+<br />
+
+---
+
 <center>
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=KenWhite02&count_private=true&theme=gotham&show_icons=true" /></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=gotham&count_private=true" /></td>
   </tr>   
-</table>
+  </table>
 </center>
 
 [website]: https://ken-portfolio.netlify.app/
