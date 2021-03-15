@@ -15,7 +15,7 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 ### Connect with me :earth_africa:
 
 [<img align="left" alt="Ken White | Website" width="22px" src="https://user-images.githubusercontent.com/68158625/111181942-83b72e00-85bf-11eb-9955-42e6d166bd81.png" />][website]
-[<img align="left" alt="ken__white | Twitter" width="22px" src="https://user-images.githubusercontent.com/68158625/111182028-9598d100-85bf-11eb-8b66-e39dd4bca9aa.png" />][twitter]
+[<img align="left" alt="ken__white | Twitter" width="22px" src="https://user-images.githubusercontent.com/68158625/111182883-68005780-85c0-11eb-9ddd-b8cccca4499a.png" />][twitter]
 [<img align="left" alt="ken-white | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/68158625/111182101-a47f8380-85bf-11eb-88f7-8671dcd71331.png" />][linkedin]
 [<img align="left" alt="__whitish__ | Instagram" width="22px" src="https://user-images.githubusercontent.com/68158625/111182157-b19c7280-85bf-11eb-8f51-749e9cb1b8b1.png" />][instagram]
 
