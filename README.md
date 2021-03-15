@@ -14,10 +14,10 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 ### Connect with me :earth_africa:
 
-[<img align="left" alt="ken-portfolio.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ken__white | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ken-white | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="__whitish__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ken White | Website" width="22px" src="https://user-images.githubusercontent.com/68158625/111181942-83b72e00-85bf-11eb-9955-42e6d166bd81.png" />][website]
+[<img align="left" alt="ken__white | Twitter" width="22px" src="https://user-images.githubusercontent.com/68158625/111182028-9598d100-85bf-11eb-8b66-e39dd4bca9aa.png" />][twitter]
+[<img align="left" alt="ken-white | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/68158625/111182101-a47f8380-85bf-11eb-88f7-8671dcd71331.png" />][linkedin]
+[<img align="left" alt="__whitish__ | Instagram" width="22px" src="https://user-images.githubusercontent.com/68158625/111182157-b19c7280-85bf-11eb-8f51-749e9cb1b8b1.png" />][instagram]
 
 <br />
 <br />
@@ -34,14 +34,13 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 [<img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/68158625/111172537-f5d74500-85b6-11eb-9f29-ab7d31d1e215.png" />][github]
 [<img align="left" alt="Firebase" width="30px" src="https://user-images.githubusercontent.com/68158625/111172956-51093780-85b7-11eb-897d-aec5645d2da1.png" />][github]
 [<img align="left" alt="GraphQL" width="30px" src="https://user-images.githubusercontent.com/68158625/111172658-0edff600-85b7-11eb-8c96-7c10c999784d.png" />][github]
-[<img align="left" alt="Node.js" width="30px" src="https://user-images.githubusercontent.com/68158625/111176007-02a96800-85ba-11eb-9b95-fa09443813a7.png" />][github]
-[<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/68158625/111173135-76964100-85b7-11eb-9fdf-08bcea2f7d20.png" />][github]
+[<img align="left" alt="Node.js" width="30px" src="https://user-images.githubusercontent.com/68158625/111181059-a39a2200-85be-11eb-936e-f35d0c02ff0f.png" />][github]
+[<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/68158625/111181186-c1678700-85be-11eb-8db0-e208ba288f5c.png" />][github]
 [<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/68158625/111172863-3cc53a80-85b7-11eb-8631-2878c0e254bf.png" />][github]
 [<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/68158625/111172742-215a2f80-85b7-11eb-915b-91d5e37aa943.png" />][github]
 [<img align="left" alt="Material UI" width="26px" src="https://user-images.githubusercontent.com/68158625/111176327-4a2ff400-85ba-11eb-8be3-c0480a83c00e.png" />][github]
-[<img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/68158625/111176226-32f10680-85ba-11eb-98f6-1568ff432a1f.png" />][github]
-[<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/68158625/111176133-1ead0980-85ba-11eb-96e1-72017d2d9894.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
+[<img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/68158625/111181232-d04e3980-85be-11eb-8095-9e26eb4bb65b.png" />][github]
+[<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/68158625/111181844-6d10d700-85bf-11eb-9703-fb4236968c39.png" />][github]
 
 <br />
 <br />
