@@ -6,12 +6,16 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 #### I am a Javascript Web Developer
 
-- 🔭 I started to code back in 2019.
-- 🌱 I’m currently learning NodeJs.
+- 🔭 Open for Job Opportunities.
+- 🌱 I’m currently building NodeJs x ReactJs projects.
 - 👯 I’m looking to collaborate with other web developers.
 - 🥅 2021 Goals: Contribute to an Open Source project.
-- ⚡ Fun fact: I enjoy nature walks.
-
+- 🕸 Interests: 
+      -Web Development 💻
+      -Cybersecurity 😎
+      -Hooping 🏀
+- ⚡ Fun fact: You are always looking at your nose; your brain just chooses to ignore it.
+      
 ### Connect with me :earth_africa:
 
 [<img align="left" alt="Ken White | Website" width="22px" src="https://user-images.githubusercontent.com/68158625/111181942-83b72e00-85bf-11eb-9955-42e6d166bd81.png" />][website]
