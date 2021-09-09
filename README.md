@@ -6,16 +6,16 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 #### I am a Javascript Web Developer
 
-🔭 Open for Job Opportunities.
-🌱 I’m currently building NodeJs x ReactJs projects.
-👯 I’m looking to collaborate with other Javascript web developers.
-🥅 2021 Goals: Contribute to an Open Source project.
-💬 Ask me about:
+🔭 Open for Job Opportunities. <br />
+🌱 I’m currently building NodeJs x ReactJs projects. <br />
+👯 I’m looking to collaborate with other Javascript web developers. <br />
+🥅 2021 Goals: Contribute to an Open Source project. <br />
+💬 Ask me about: <br />
 - NodeJs
 - ReactJs
 - Basketball
 - Anime
-🕸 Interests: 
+🕸 Interests: <br />
 - Web Development 💻
 - Cybersecurity 😎
 - Hooping 🏀
