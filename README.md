@@ -10,11 +10,11 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 🌱 I’m currently building NodeJs x ReactJs projects. <br />
 👯 I’m looking to collaborate with other Javascript web developers. <br />
 🥅 2021 Goals: Contribute to an Open Source project. <br />
-💬 Ask me about: <br />
+💬 Ask me about:
 - NodeJs
 - ReactJs
 - Basketball
-- Anime
+- Anime <br />
 🕸 Interests: <br />
 - Web Development 💻
 - Cybersecurity 😎
