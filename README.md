@@ -6,20 +6,20 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 #### I am a Javascript Web Developer
 
-- 🔭 Open for Job Opportunities.
-- 🌱 I’m currently building NodeJs x ReactJs projects.
-- 👯 I’m looking to collaborate with other Javascript web developers.
-- 🥅 2021 Goals: Contribute to an Open Source project.
-- 💬 Ask me about:
-NodeJs
-ReactJs
-Basketball
-Anime
-- 🕸 Interests: 
-Web Development 💻
-Cybersecurity 😎
-Hooping 🏀
-- ⚡ Fun fact: You are always looking at your nose; your brain just chooses to ignore it.
+🔭 Open for Job Opportunities.
+🌱 I’m currently building NodeJs x ReactJs projects.
+👯 I’m looking to collaborate with other Javascript web developers.
+🥅 2021 Goals: Contribute to an Open Source project.
+💬 Ask me about:
+- NodeJs
+- ReactJs
+- Basketball
+- Anime
+🕸 Interests: 
+- Web Development 💻
+- Cybersecurity 😎
+- Hooping 🏀
+⚡ Fun fact: You are always looking at your nose; your brain just chooses to ignore it.
       
 ### Connect with me :earth_africa:
 
