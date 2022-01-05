@@ -57,7 +57,6 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 </center>
 
 <br />
-<br />
 
 ---
 
