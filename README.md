@@ -56,6 +56,11 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
   </table>
 </center>
 
+<br />
+<br />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KenWhite02&theme=gotham" alt="Ace-Krypton" /></p> 
+
 [website]: https://ken-portfolio.netlify.app/
 [twitter]: https://twitter.com/ken__white
 [instagram]: https://www.instagram.com/__whitish__/?hl=en
