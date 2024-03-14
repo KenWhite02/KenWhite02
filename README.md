@@ -9,10 +9,9 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 - 🔭 Open for Job Opportunities. 
 - 🌱 I’m currently building NodeJs x ReactJs projects.
 - 👯 I’m looking to collaborate with other Javascript web developers.
-- 🥅 2021 Goals: Contribute to an Open Source project.
 - 💬 Ask me about: NodeJs, ReactJs, Basketball. 
-- 🕸 Interests: Web Development 💻, Cybersecurity 😎, Hooping 🏀, Photography 📸.
-- ⚡ Fun fact: You are always looking at your nose; your brain just chooses to ignore it.
+- 🕸 Interests: Web Development 💻, Hooping 🏀, Photography 📸.
+- ⚡ Fun fact: Cows have best friends! Studies have shown that cows form close bonds with other cows, often developing strong social connections within their herds.
       
 ### Connect with me :earth_africa:
 
