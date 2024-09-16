@@ -56,14 +56,17 @@ I am Self-taught Software Developer with a love for creating dynamic app experie
   </table>
 </center> -->
 
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=KenWhite02&count_private=true&theme=gotham&show_icons=true" />
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=gotham&langs_count=10" />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=KenWhite02&count_private=true&theme=gotham&show_icons=true" />
+
+<br />
+
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=gotham&langs_count=10" />
 
 <br />
 
 ---
 
-<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KenWhite02&theme=gotham" alt="Ace-Krypton" /></p> 
+<p><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KenWhite02&theme=gotham" alt="Ace-Krypton" /></p> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
