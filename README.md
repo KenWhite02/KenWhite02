@@ -58,12 +58,12 @@ I am Self-taught Software Developer with a love for creating dynamic app experie
 
 <br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KenWhite02&theme=gotham" alt="Ace-Krypton" /></p> 
+<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KenWhite02&theme=gotham" alt="Ace-Krypton" /></p> 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [website]: https://kenwhite.netlify.app/
 [twitter]: https://twitter.com/ken__white
