@@ -47,14 +47,17 @@ I am Self-taught Software Developer with a love for creating dynamic app experie
 
 ---
 
-<center>
+<!-- <center>
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=KenWhite02&count_private=true&theme=gotham&show_icons=true" /></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=gotham&langs_count=10" /></td>
   </tr>   
   </table>
-</center>
+</center> -->
+
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=KenWhite02&count_private=true&theme=gotham&show_icons=true" />
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWhite02&layout=compact&theme=gotham&langs_count=10" />
 
 <br />
 
