@@ -1,10 +1,10 @@
 <!-- HERO -->
 
 <h1 align="center">Hi 👋, I'm Ken White</h1>
-<h3 align="center">Fullstack Developer | React • Node • Ruby</h3>
+<h3 align="center">Fullstack Developer | React • Node • Ruby(sometimes)</h3>
 
 <p align="center">
-  I build scalable, high-performance web applications with clean UX and real-world impact.
+  I write code that works, scales, and keeps the lights on — no fluff.
 </p>
 
 ---
@@ -29,13 +29,12 @@
 ---
 
 ## 🚀 About Me
-
-* 🔭 Open to **Software Engineering opportunities**
-* ⚡ Building scalable apps using **React, Node.js, and Ruby on Rails**
-* 🌱 Currently learning **Go** and improving backend architecture skills
-* 👯 Looking to collaborate on **impactful, real-world products**
-* 💬 Ask me about **Frontend Architecture, APIs, Performance Optimization**
-* 🏀 Outside tech: Basketball, photography, and exploring new ideas
+- 💻 Build **apps that don’t break under pressure** — from **React UIs** to **Node & Rails backends**  
+- ⚡ Focus on **scalable, performant systems** that actually work  
+- 🌱 Currently **diving into Go** and refining **backend architectures**  
+- 🛠 Enjoy **solving tricky problems**, optimizing APIs, and turning complex ideas into clean code  
+- 🚴 Off the keyboard: 🚵🏽‍♂️ **cycling**, 🏀 **basketball**, or experimenting with **random ideas that probably shouldn’t exist**  
+- 💬 Ask me about: **frontend architecture, API design, performance optimization, and building apps that survive real users**  
 
 ---
 
@@ -43,45 +42,53 @@
 
 ### Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge\&logo=ruby-on-rails\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f0ff.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge\&logo=vercel)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/xcode-%23007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%23007ACC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌾 Farmers Marketplace App
+A fullstack platform connecting farmers and offtakers, giving farmers reliable market access and buyers (off-takers) a steady, year-round supply.
 
-A fullstack platform connecting farmers and buyers with a real-time offer and negotiation system.
-
-* ⚡ Built with React, Node.js, and PostgreSQL
-* 📡 Real-time offer flow and negotiation modal
-* 📱 Progressive Web App (PWA) with offline support
-* 🎯 Focused on usability, performance, and scalability
+⚡ Built with React, Node.js, and PostgreSQL  
+📡 Real-time offer flow and negotiation modal  
+📱 Progressive Web App (PWA) with offline support  
+🎯 Enables trustworthy transactions, efficient market access, and predictable supply chains
 
 ---
 
-### 📊 Analytics Dashboard
+### 🌾 Kilimo Boost
 
-A high-performance dashboard for tracking and visualizing business metrics.
+A streamlined financing experience enabling farmers to access loans as vouchers, redeemable with partnered agrodealers for essential farm inputs.
 
-* ⚡ React + TypeScript + Chart.js
-* 🚀 Optimized data fetching with React Query
-* 📈 Real-time insights and responsive UI
+* ⚡ Built a financing modal for easy loan application and voucher issuance  
+* 📱 Enabled voucher-based loan disbursement for approved inputs  
+* 🔗 Connected farmers to trusted agrodealers for seamless redemption  
+* 🎯 Improved input access, year-round farming continuity, and market supply reliability
 
 ---
 
@@ -98,4 +105,4 @@ A high-performance dashboard for tracking and visualizing business metrics.
 
 ## ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
