@@ -73,9 +73,6 @@ A fullstack platform connecting farmers and buyers with a real-time offer and ne
 * 📱 Progressive Web App (PWA) with offline support
 * 🎯 Focused on usability, performance, and scalability
 
-👉 Live: https://your-live-link.com
-👉 Repo: https://github.com/KenWhite02/your-repo
-
 ---
 
 ### 📊 Analytics Dashboard
@@ -85,17 +82,6 @@ A high-performance dashboard for tracking and visualizing business metrics.
 * ⚡ React + TypeScript + Chart.js
 * 🚀 Optimized data fetching with React Query
 * 📈 Real-time insights and responsive UI
-
-👉 Live: https://your-live-link.com
-👉 Repo: https://github.com/KenWhite02/your-repo
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KenWhite02/KenWhite02/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
